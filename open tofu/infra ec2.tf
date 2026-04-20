@@ -1,6 +1,6 @@
 variable "git_repo" {
   type    = string
-  default = "https://github.com/Monelson/postagram_ensai.git"
+  default = "https://github.com/Edouard1er/postagram_ensai.git"
 }
 
 ########################################
